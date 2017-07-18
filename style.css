@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: purple;
+    margin-left: 20px;
+}
+
+h3 {
+    color: purple;
+    margin-left: 20px;
+}
+
+p{
+  font-family: Verdana, Arial, Georgia
+}
