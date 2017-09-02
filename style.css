@@ -1,16 +1,13 @@
 body {
-    background-color: lightgray;
+    background-color: #b2edff !important;
 }
 
-h1 {
-    color: purple;
+h1, h2 {
+  font-family: 'Bitter', serif !important;
+  text-align: center;
 }
 
-h2 {
-    color: purple;
-}
-
-p{
-  font-family: Arial, Georgia
-  color: pink;
+p {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
